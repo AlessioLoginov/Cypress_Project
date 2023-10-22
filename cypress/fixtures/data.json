@@ -1,0 +1,9 @@
+{
+    "mail": "test@test.com",
+    "pass": "test",
+    "title": "Гарри Поттер и философский камень",
+    "description": "Сага о мальчике, который выжил",
+    "fileCover": "cypress/fixtures/cover.png",
+    "fileBook": "cypress/fixtures/text.txt",
+    "authors": "Джоан Роулинг"
+  }
